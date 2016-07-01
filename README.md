@@ -1,2 +1,2 @@
 # hello-world
-Just another
+hi there ,I am Rica I like to learn something here
